@@ -87,7 +87,5 @@ This project followed a **structured, end-to-end analytical process** to ensure 
 
 The final dashboard serves as a **strategic intelligence tool** — enabling decision-makers to track marketing performance, optimize spending, and design more impactful affiliate campaigns.
 
----
 
-Would you like me to add a **"Preview" section** (with space for screenshots or GIFs) and **"Future Enhancements"** section for professional polish?
 
