@@ -62,16 +62,6 @@ This project followed a **structured, end-to-end analytical process** to ensure 
    * Created a centralized `_Key Measures` table containing over **15 complex DAX measures** such as `Total Revenue`, `Conversion Rate`, and `Total Commission`.
    * These measures powered all dynamic visuals across the report.
 
-   **Example DAX Measure:**
-
-   ```DAX
-   -- Calculates the YoY growth percentage, handling potential division by zero.
-   YoY Growth % =
-   VAR CurrentYearSales = [Total Sales]
-   VAR PreviousYearSales = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Calendar'[Date]))
-   RETURN
-       DIVIDE(CurrentYearSales - PreviousYearSales, PreviousYearSales)
-   ```
 
 ---
 
