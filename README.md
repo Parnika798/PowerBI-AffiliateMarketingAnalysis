@@ -1,6 +1,4 @@
-Here’s a clean, **Markdown-formatted version** of your project description, perfectly suited for your GitHub README:
 
----
 
 # 📊 Amazon Affiliate Marketing Performance Dashboard
 
