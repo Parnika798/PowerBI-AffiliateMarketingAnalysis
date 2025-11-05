@@ -4,6 +4,15 @@
 
 An **end-to-end Power BI project** that transforms raw affiliate marketing data into a strategic tool for driving revenue growth and optimizing marketing spend.
 
+<img width="632" height="356" alt="Page1" src="https://github.com/user-attachments/assets/67a9c743-93e6-4bfc-b8f9-dfc7783aa477" />
+
+<img width="701" height="395" alt="Page2" src="https://github.com/user-attachments/assets/165a391a-4870-4b7f-aa69-b62d9056f9cc" />
+
+<img width="702" height="393" alt="Page3" src="https://github.com/user-attachments/assets/f6c12111-a1a3-4d20-93fa-f9b8428aa2f4" />
+
+<img width="694" height="392" alt="Page4" src="https://github.com/user-attachments/assets/45b6e887-c649-4908-bc4d-09a800c6efcb" />
+
+
 ---
 
 ## 🎯 Project Objective
@@ -77,7 +86,8 @@ This project followed a **structured, end-to-end analytical process** to ensure 
 
 The final dashboard serves as a **strategic intelligence tool** — enabling decision-makers to track marketing performance, optimize spending, and design more impactful affiliate campaigns.
 
-<img width="632" height="356" alt="Page1" src="https://github.com/user-attachments/assets/67a9c743-93e6-4bfc-b8f9-dfc7783aa477" />
+
+
 
 
 
