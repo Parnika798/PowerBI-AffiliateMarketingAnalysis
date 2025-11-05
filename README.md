@@ -77,5 +77,7 @@ This project followed a **structured, end-to-end analytical process** to ensure 
 
 The final dashboard serves as a **strategic intelligence tool** — enabling decision-makers to track marketing performance, optimize spending, and design more impactful affiliate campaigns.
 
+<img width="632" height="356" alt="Page1" src="https://github.com/user-attachments/assets/67a9c743-93e6-4bfc-b8f9-dfc7783aa477" />
+
 
 
